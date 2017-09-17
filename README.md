@@ -1,3 +1,10 @@
+# josiamu 
+
+- bundle exec jekyll serve
+- bundle exec jekyll serve --livereload
+- bundle exec jekyll serve --livereload --port 8080
+- มาเขียนต่อ 2015-12-28-agile.md
+
 # Simple Texture Jekyll Theme
 
 ![Gem Version](https://img.shields.io/gem/v/jekyll-theme-simple-texture.svg)
